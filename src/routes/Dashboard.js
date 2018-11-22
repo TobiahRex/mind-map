@@ -2,7 +2,7 @@
 // import Splash from '../views/Splash/main';
 import Title from '../views/Title/Title';
 import Crud from '../views/Crud/Crud';
-import Sankey from '../views/Sankey';
+import TrueFood from '../views/TrueFood';
 import Gateway from '../views/Gateway';
 
 const dashboardRoutes = [
@@ -23,9 +23,9 @@ const dashboardRoutes = [
   },
   {
 
-    path: '/sankey',
-    name: 'Sankey',
-    component: Sankey,
+    path: '/true-food',
+    name: 'True Food',
+    component: TrueFood,
 
   },
   {
