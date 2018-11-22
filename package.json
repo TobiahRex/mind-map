@@ -1,9 +1,9 @@
 {
-  "name": "react-template",
-  "version": "1.5.0",
-  "description": "react-template",
+  "name": "mind-map",
+  "version": "0.0.1",
+  "description": "mind-map",
   "main": "index.js",
-  "repository": "https://github.com/TobiahRex/reactBoilerplate.git",
+  "repository": "https://github.com/TobiahRex/mind-map.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "if test \"$NODE_ENV\" = \"production\" ; then npm run start-prod; else npm run start-dev; fi ",

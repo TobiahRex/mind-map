@@ -1,19 +1,20 @@
-# _React Boilerplate:_ [DEMO](https://trex-rbp.herokuapp.com/)
-Full-Stack REACT & Redux - Created: 6 October 2016
+# _Mind-Map:_
+<!-- # _Mind-Map:_ [DEMO](https://trex-rbp.herokuapp.com/) -->
+Full-Stack REACT & Redux - Created: 22 November 2018
 <!-- ### Deployed on Heroku [here](https://itiner-ez.herokuapp.com/). -->
-<img src="http://imgur.com/dTXjfrU.png" />
+<!-- <img src="http://imgur.com/dTXjfrU.png" /> -->
 
 
 ## DESCRIPTION:
-Cannibalized from Templates and Boilerplates from around the web.
-  * Uses _apisauce_ for API calls. See API README.md for details.
+Displays current memory palace's & mind mappings of various information and data.
+  <!-- * Uses _apisauce_ for API calls. See API README.md for details.
   * Uses _redux-sagas_ to call customized api methods.
   * Uses _redux_sauce_ to create Types, Creators & Reducer.
   * Uses _redux-logger_ to allow for informative workflow from the devtools console.  
   * Uses _redux-devtools-extension_ to allow for a macro perspective picture of your current store's state.
     - <img src="http://i.imgur.com/GD4VCkW.png" />
   * Configured for front end environment variables using webpack.DefinePlugin().
-  * Airbnb Style Guide implemented.
+  * Airbnb Style Guide implemented. -->
 
 ## Setup:
   - `npm i` to install dependencies
@@ -30,9 +31,6 @@ Cannibalized from Templates and Boilerplates from around the web.
 
 
   NOTE: I Highly recommend running `npm update --save` to update package json before running `npm start` or `npm build`.
-
-## NOTE on Reducers:
- This bp's Redux reducer methods rely on the developer to customize the logic to maintain immutability of state. This was done _intentionally_ to strengthen developers abilities in manipulating state.  If this feels cumbersome, I highly recommend using _seamless-immutable_ (refs below) to outsource this process in a very clean, and simple way.
 
 ## Helper Libraries:
 * [apisauce](https://github.com/skellock/apisauce)
@@ -52,11 +50,11 @@ Cannibalized from Templates and Boilerplates from around the web.
 * [David Durbina's React/Express Boilerplate](https://github.com/WindUpDurb/React-Express-Boilerplate).
 
 ## Updates:
-* December 1st 2016:
+<!-- * December 1st 2016:
   - Extensive refactor to entire project.  WARNING in the process of re-factoring package.json and webpack.config for smoother deployment however process is not yet complete.  Will update here when it's finished and GTG.
 * December 2nd 2016:
-  - Finished major refactor and deployment. Click the "DEMO" link above to check out the latest working version.  Thanks for the interest.
+  - Finished major refactor and deployment. Click the "DEMO" link above to check out the latest working version.  Thanks for the interest. -->
 
 ## ScreenShots:
-* Terminal
-  - <img src="http://i.imgur.com/RjJ7yfA.png" />
+<!-- * Terminal
+  - <img src="http://i.imgur.com/RjJ7yfA.png" /> -->
